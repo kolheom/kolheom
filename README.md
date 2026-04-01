@@ -14,13 +14,23 @@
 ## 🚀 Skills
 
 <p align="center">
-  
+
+<!-- Programming Languages -->
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+<!-- Web Development -->
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+<!-- Core Skills -->
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20&%20Algorithms-blueviolet?style=for-the-badge)
+
+<!-- Database & Tools -->
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
