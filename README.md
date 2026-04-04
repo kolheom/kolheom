@@ -40,10 +40,9 @@
 ---
 
 ## 📌 Projects
-  ** 🌱 EcoTrack 
-
-   → A sustainability-focused platform to track and reduce carbon footprint
-   → Features:
+    🌱 **EcoTrack**
+     → A sustainability-focused platform to track and reduce carbon footprint
+     → Features:
 
    🌍 Activity tracking & impact calculation
    📊 Dashboard with analytics
