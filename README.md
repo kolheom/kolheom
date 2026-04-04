@@ -40,7 +40,15 @@
 ---
 
 ## 📌 Projects
+  ** 🌱 EcoTrack 
 
+   → A sustainability-focused platform to track and reduce carbon footprint
+   → Features:
+
+   🌍 Activity tracking & impact calculation
+   📊 Dashboard with analytics
+   👥 Community & leaderboard system
+   🔐 Authentication system
 - 🚗 **Vehicle Management System**  
   → Manages vehicle records and operations efficiently  
 
